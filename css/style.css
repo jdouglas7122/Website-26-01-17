@@ -1,0 +1,49 @@
+.C1{
+	max-width:1300px;
+	background-color: white;
+	margin:40px auto 0 auto;
+	line-height:1.65;
+	padding:20px 50px;
+	display:flex;
+	justify-content:space-around;
+}
+
+.C1.1{
+	width:20%;
+	height:20px;
+	
+}
+
+.C1.2{
+	width:5%;
+	
+}
+
+.C1.3{
+	width:20%;
+	
+}
+
+.C1.4{
+	width:20%;
+	
+}
+
+.C2{
+margin:40px auto 0 auto ;
+padding:20px 50px;
+display: flex;
+
+}
+
+.C2.1{
+	width: 35%;
+	height:100px;
+	background-color:#cceeff;
+	margin-right: 1000000px;
+}
+
+.C2.2{
+
+}
+
